@@ -1,6 +1,6 @@
 # Sergio Martínez
 
-## Junior Fullstack Developer
+## Fullstack Developer
 
 Desarrollador Fullstack enfocado en JavaScript moderno y en la creación de aplicaciones web con React, Node.js y MongoDB.
 
